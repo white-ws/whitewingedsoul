@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: White Winged Soul
-subtitle: Good Code ? Bad Code ? No Code !
-description: Just a Software Engineer Wannabe's Basement
+title: WhiteWingedSoul
+subtitle: Good Code ? Bad Code ? Codeless Code !
+description: Just a software engineer wannabe's basement. I'm hiding here waiting to see the world someday.
 keywords: blog, it, software
-author: Viet Hoang
+author: viethd
 language: en
 timezone: Japan
 
@@ -73,7 +73,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
