@@ -66,14 +66,14 @@ footer:
   icon:
     # Icon name in fontawesome, see: https://fontawesome.com/v4.7.0/icons
     # `heart` is recommended with animation in red (#ff0000).
-    name: user
+    name: address-card
     # If you want to animate the icon, set it to true.
-    animated: true
+    animated: false
     # Change the color of icon, using Hex Code.
     color: "#808080"
 
   # If not defined, will be used `author` from Hexo main config.
-  copyright:
+  copyright: Viet Hoang
   # -------------------------------------------------------------
   powered:
     # Hexo link (Powered by Hexo).
@@ -88,7 +88,7 @@ footer:
     version: false
   # -------------------------------------------------------------
   # Any custom text can be defined here.
-  custom_text: Powered by <a target="_blank" rel="external nofollow" href="https://github.com">Github</a> and <a target="_blank" rel="external nofollow" href="https://hexo.io/">Hexo</a>
+  custom_text: The Lone Dev, All Rights Reserved.
 
 # ---------------------------------------------------------------
 # SEO Settings
@@ -160,7 +160,7 @@ social:
   #Google: https://plus.google.com/yourname || google
   Twitter: https://twitter.com/WhiteWingedSoul || twitter
   Facebook: https://www.facebook.com/WhiteWingedSoul || facebook
-  Linkedin: https://www.linkedin.com/in/hoang-duc-viet-80055b10a/ || linkedin
+  Linkedin: https://www.linkedin.com/in/hoang-duc-viet/ || linkedin
   #VK Group: https://vk.com/yourname || vk
   #StackOverflow: https://stackoverflow.com/yourname || stack-overflow
   #YouTube: https://youtube.com/yourname || youtube
