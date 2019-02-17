@@ -17,6 +17,8 @@ So no longer, from today onward, i'll force myself to write, no matter how shall
 Thus, begin the first post on this blog. How this site was made.
 
 
+<!-- more -->
+
 # Installing Hexo
 
 First, i checked the list of prerequisite preparation
