@@ -3,8 +3,8 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: A lone developer
-subtitle: Good Code ? Bad Code ? Codeless Code !
+title: A lone developer 
+subtitle: Blogging to fight procrastination
 description: Just a software engineer wannabe. I'm hiding in the basement waiting to see the world someday.
 keywords: blog, it, software
 author: viethd
@@ -79,6 +79,6 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@me.github.com:WhiteWingedSoul/whitewingedsoul.github.io.git
+  repo: git@github.com:white-ws/white-ws.github.io.git
   branch: master
   message: "Site updated on {{ now('YYYY-MM-DD HH:mm:ss') }}"
